@@ -30,7 +30,7 @@
 
 ![3](https://github.com/user-attachments/assets/46ac048b-15f9-4a01-a630-807e785b5639)
 
-### REGLAREA INTENSITATII LUMINII ACTIVA
+## REGLAREA INTENSITATII LUMINII ACTIVA
 ![4](https://github.com/user-attachments/assets/9f2d9a38-a1fa-41df-84f7-865f62b1b78a)
 
 ![5](https://github.com/user-attachments/assets/a731bec0-646d-4c8c-ae4e-405f2c8ed13d)
